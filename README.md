@@ -1,4 +1,4 @@
-# coffee-theme README
+# HypeBeast Theme README
 
 ## Working with Markdown
 
