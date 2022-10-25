@@ -1,0 +1,21 @@
+{
+  "name": "hype-beast",
+  "displayName": "HypeBeast",
+  "description": "HypeBeast is a VS Code theme with modern colors like Teal and Orange perfect for HypeBeasts",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.72.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "Hype Beast",
+        "uiTheme": "vs",
+        "path": "./themes/HypeBeast-color-theme.json"
+      }
+    ]
+  }
+}
