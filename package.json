@@ -2,7 +2,21 @@
   "name": "hype-beast",
   "displayName": "HypeBeast",
   "description": "HypeBeast is a VS Code theme with modern colors like Teal and Orange perfect for HypeBeasts",
-  "version": "0.0.1",
+  "version": "1.0.0",
+  "publisher": "updwnheadlights",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/updwnheadlights/HypeBeast"
+  },
+  "keywords": [
+    "theme",
+    "cool theme",
+    "hypebeast",
+    "teal theme",
+    "orange theme",
+    "ayush desai",
+    "ayush desai theme"
+  ],
   "engines": {
     "vscode": "^1.72.0"
   },
